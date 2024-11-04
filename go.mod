@@ -3,7 +3,7 @@ module github.com/shuntaka9576/gh-p2
 go 1.18
 
 require (
-	github.com/alecthomas/kong v1.2.1
+	github.com/alecthomas/kong v1.3.0
 	github.com/cli/go-gh v1.2.1
 	github.com/google/go-cmp v0.6.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
