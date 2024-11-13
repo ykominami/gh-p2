@@ -1,6 +1,6 @@
 module github.com/shuntaka9576/gh-p2
 
-go 1.18
+go 1.22.0
 
 require (
 	github.com/alecthomas/kong v1.4.0
